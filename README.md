@@ -1,5 +1,6 @@
 ### Olá 👋
-
+Me chamo Júlio Cesar e sou graduando do curso de engenharia de software na UnB/FGA.
+- Atualmente estou estudando JavaScript | TypeScript | React
 - 📫 Como me contatar: julio0033@hotmail.com
 
 <div>
