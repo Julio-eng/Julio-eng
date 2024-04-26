@@ -1,7 +1,7 @@
 ### Olá 👋
 Me chamo Júlio César e sou graduando do curso de Engenharia de Software na UnB/FGA.
-- Atualmente estou estudando JavaScript | TypeScript | React
-- 📫 Como me contatar: julio0033@hotmail.com
+- Atualmente estou estudando JavaScript | TypeScript | React | Next | Ruby | Ruby on Rails
+- 📫 Como me contatar: juliomartins.se@gmail.com
 
 <div>
   <a href:"https://github.com/Julio-eng">
