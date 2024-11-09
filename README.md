@@ -1,6 +1,7 @@
 ### Olá 👋
-Me chamo Júlio César e sou graduando do curso de Engenharia de Software na UnB/FGA.
-- Atualmente estou estudando JavaScript | TypeScript | React | Next | Ruby | Ruby on Rails
+Me chamo Júlio César e sou graduando do curso de Engenharia de Software na Universidade de Brasília (UnB).
+- Tenho conhecimentos e prática em JavaScript | TypeScript | React | Next.js
+- Atualmente estou estudando Java | Spring Boot
 - 📫 Como me contatar: juliomartins.se@gmail.com
 
 <div>
