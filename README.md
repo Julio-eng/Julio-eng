@@ -1,11 +1,48 @@
-### Olá 👋
-Me chamo Júlio César e sou graduando do curso de Engenharia de Software na Universidade de Brasília (UnB).
-- Tenho conhecimentos e prática em JavaScript | TypeScript | React | Next.js
-- Atualmente estou estudando Java | Spring Boot
-- 📫 Como me contatar: juliomartins.se@gmail.com
+# Olá! 👋 Seja bem-vindo ao meu perfil!
 
-<div>
-  <a href:"https://github.com/Julio-eng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio-eng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-eng&layout=compact&langs_count=16&theme=dracula">
-</div>
+Meu nome é Júlio César e estou cursando Engenharia de Software.
+
+## Sobre mim
+- 🎓 Atualmente, sou estudante de Engenharia de Software na Universidade de Brasília.
+- 💻 Atuo principalmente como desenvolvedor frontend, mas também estou expandindo meus conhecimentos em backend para ter uma base sólida em ambos.
+- 🔍 Gosto de explorar novas tecnologias e aprender sobre boas práticas de desenvolvimento.
+
+## 🛠️ Tecnologias e Ferramentas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Projetos Destacados
+### [Sistema Automatizado de Alimentação para Pets](https://gitlab.com/unb-esw/fga-pi2/semestre-2024-3/squad08)  
+
+Desenvolvemos um sistema automatizado para facilitar a alimentação de pets, permitindo que tutores **programem refeições remotamente** e **monitorem o consumo** de seus animais. O projeto surgiu no contexto do curso de **Engenharia de Software da UnB**, integrando diversas áreas da engenharia para criar uma solução **prática e acessível** para donos de pets que viajam ou possuem rotinas atarefadas.  
+
+#### 🔧 Tecnologias Utilizadas  
+
+- **🛠 Backend**: Servidor **Python Django** com comunicação via **MQTT** para integração com o **ESP32**, garantindo controle eficiente do dispositivo.  
+- **📱 Frontend**: Aplicativo mobile desenvolvido com **React Native** e **Expo**, utilizando **NativeWind** para estilização otimizada.  
+- **📡 Hardware**: Alimentador automatizado equipado com **sensores de peso e nível**, além de motor para liberação precisa da ração e bomba para água.  
+
+#### 🎯 Minha Contribuição  
+
+- Desenvolvimento do **frontend** do aplicativo.  
+- Participação na **documentação**, incluindo a criação dos **diagramas de fluxo do usuário**.  
+
+### [Renderizador de Fluxos para Educação Jurídica](https://github.com/Julio-eng/TCC-2024-1-Renderizador-de-Fluxos)
+Desenvolvemos um aplicativo voltado para a educação jurídica da população em parceria com alunos e professores da USP. A ferramenta permite a criação de fluxos, como o de direitos trabalhistas, para que usuários possam navegar e identificar possíveis violações de seus direitos, com orientações sobre como buscar ajuda jurídica.
+- 🛠️ Backend: Google Forms para criação dos fluxos, processados via AWS Lambda.
+- 📱 Frontend: Progressive Web App (PWA) acessível via navegador, focado em facilidade de uso.
+- 🎯 Minha contribuição: Desenvolvimento do PWA para renderizar os fluxos e criar uma experiência interativa e acessível.
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Julio-eng&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-eng&layout=compact&theme=radical)
+
+## 🌐 Onde me encontrar
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliomartinsf/)
+- 📧 E-mail: juliomartins.se@gmail.com
