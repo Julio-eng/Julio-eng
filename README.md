@@ -3,11 +3,16 @@
 Meu nome é Júlio César e estou cursando Engenharia de Software.
 
 ## Sobre mim
-- 🎓 Atualmente, sou estudante de Engenharia de Software na Universidade de Brasília.
-- 💻 Atuo principalmente como desenvolvedor frontend, mas também estou expandindo meus conhecimentos em backend para ter uma base sólida em ambos.
-- 🔍 Gosto de explorar novas tecnologias e aprender sobre boas práticas de desenvolvimento.
+- 🎓 Estudante do último ano de Engenharia de Software na Universidade de Brasília (UnB).
+- 💻 Estagiário de desenvolvimento na Elfotec, atuando com Angular e Spring Boot em sistemas web.
+- 🔁 Experiência com desenvolvimento full-stack.
+- 🚀 Apaixonado por aprender novas tecnologias, boas práticas e construir soluções eficientes e escaláveis.
 
 ## 🛠️ Tecnologias e Ferramentas
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
