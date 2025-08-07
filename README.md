@@ -1,7 +1,5 @@
 # Olá! 👋 Seja bem-vindo ao meu perfil!
 
-Meu nome é Júlio César e estou cursando Engenharia de Software.
-
 ## Sobre mim
 - 🎓 Estudante do último ano de Engenharia de Software na Universidade de Brasília (UnB).
 - 💻 Estagiário de desenvolvimento na Elfotec, atuando com Angular e Spring Boot em sistemas web.
