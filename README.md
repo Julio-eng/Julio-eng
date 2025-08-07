@@ -42,9 +42,9 @@ Desenvolvemos um aplicativo voltado para a educação jurídica da população e
 - 📱 Frontend: Progressive Web App (PWA) acessível via navegador, focado em facilidade de uso.
 - 🎯 Minha contribuição: Desenvolvimento do PWA para renderizar os fluxos e criar uma experiência interativa e acessível.
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Julio-eng&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-eng&layout=compact&theme=radical)
+<!--## 📊 Estatísticas do GitHub-->
+<!--![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Julio-eng&show_icons=true&theme=radical)-->
+<!--![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-eng&layout=compact&theme=radical)-->
 
 ## 🌐 Onde me encontrar
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliomartinsf/)
